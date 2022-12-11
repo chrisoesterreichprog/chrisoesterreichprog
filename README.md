@@ -3,7 +3,7 @@
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tchrisoesterreichprog.chrisoesterreichprog" />
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Bachelor Thesis and Flutter Applications
 - 🌱 I’m currently learning Flutter and Tensorflow
 - 🤔 I’m looking for help with Tensorflow on M1
 - 📫 How to reach me: chris.oesterreich.c@gmail.com
