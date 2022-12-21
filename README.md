@@ -1,7 +1,7 @@
-<a href="https://github.com/tomondre"><img src="contributions.svg"></a>
+![GitHub Snake Light](https://github.com/HannesGitH/HannesGitH/raw/snekdist/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/HannesGitH/HannesGitH/raw/snekdist/github-snake-dark.svg#gh-dark-mode-only)
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=tchrisoesterreichprog.chrisoesterreichprog" />
-
+<img width=0 src="https://visitor-badge.glitch.me/badge?page_id=HannesGitH.HannesGitH" />
 
 - 🔭 I’m currently working on Bachelor Thesis and Flutter Applications
 - 🌱 I’m currently learning Flutter and Tensorflow
